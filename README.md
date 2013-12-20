@@ -2,6 +2,11 @@
 
 The easiest way to export psd to favicon, WebClip and many others.
 
+# Requirement
+
+- Ruby
+- ImageMagick
+
 # Installation
 
 1. Put `Rakefile` into your project.
